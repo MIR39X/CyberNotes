@@ -14,11 +14,6 @@ This repository is for organizing and uploading my cybersecurity notes, lab work
 ```text
 CyberNotes/
 ├── README.md
-├── Semester-06/
-│   ├── Lectures/
-│   ├── Labs/
-│   ├── Assignments/
-│   └── Exams/
 ├── Topics/
 │   ├── Networking/
 │   ├── Cryptography/
